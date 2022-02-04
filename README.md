@@ -1,1 +1,1 @@
-# Python-E-itimi-Habitat-Derne-i-
+# Python Egitimi (Habitat-Dernegi)
